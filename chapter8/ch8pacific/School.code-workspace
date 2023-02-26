@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "../.."
+        },
+        {
+            "path": "../../../webd164"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "webd164"
+    }
+}
