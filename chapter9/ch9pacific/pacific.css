@@ -18,7 +18,7 @@ header {
     background-repeat: no-repeat; /* bgr */
     background-size: contain; /* bgz */
     color: #fff; /* c#fff */
-    padding: 0.5em auto;
+    padding: 0.5em;
     text-align: center; /* tac */
 }
 header a {
