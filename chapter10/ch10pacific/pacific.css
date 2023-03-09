@@ -1,4 +1,4 @@
- * {
+* {
     box-sizing: border-box; /* bxbb */
  }
  
@@ -142,8 +142,6 @@ form {
 input, textarea {
     margin-bottom: 0.5em;
 }
-
-
 @media (max-width: 600px) {
     header {
         background-image: none;
